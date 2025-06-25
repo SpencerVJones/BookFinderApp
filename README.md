@@ -1,4 +1,8 @@
 # BookFinderApp
+  <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/BookFinderApp)
+</div>
 Android application that fetches and displays books from the Google Books API. It uses a GridView to present book titles along with their cover images retrieved from the API.
 
 ## Features
